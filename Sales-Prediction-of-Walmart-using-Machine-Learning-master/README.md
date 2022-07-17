@@ -7,3 +7,4 @@ Predict which departments are affected with the holiday markdown events and the 
 
 We would also like to create a linear model to find a specific value for Weekly Sales that we want to predict. This line of best fit is intended to approximate further data points based on the line that we find in our training data.
 Perform dimensionality reduction to improve prediction error by shrinkage in order to reduce overfitting.
+ 
