@@ -1,6 +1,6 @@
 # Retail Analysis with Walmart Data
 
-1. [Project Motivation](#ProjectMotivation)
+1. [Project Motivation](#ProjectMotivation) 
 2. [Installation](#installation)
 3. [Data](#data)  
 4. [Implementation](#model)   
