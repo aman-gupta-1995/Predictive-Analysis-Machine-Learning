@@ -5,7 +5,7 @@
 3. [Data](#data)  
 4. [Implementation](#model)   
 5. [Results](#results)  
-        
+         
 ## 1. Project Motivation <a name="ProjectMotivation"></a>                 
      
 **In this project we focused retail analysis with Walmart data and answer the following questions:**
