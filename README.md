@@ -1,10 +1,2 @@
 # Predictive-Analysis-Machine-Learning
   
- 
-   
-     
-      
-          
-         
-    
- 
